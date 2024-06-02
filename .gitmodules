@@ -1,0 +1,6 @@
+[submodule "db-lib-database-config"]
+	path = db-lib-database-config
+	url = https://github.com/aka-somix/db-lib-database-config
+[submodule "db-lib-service"]
+	path = db-lib-service
+	url = https://github.com/aka-somix/db-lib-service
