@@ -4,3 +4,6 @@
 [submodule "db-lib-service"]
 	path = db-lib-service
 	url = https://github.com/aka-somix/db-lib-service
+[submodule "db-lib-database-mgmt"]
+	path = db-lib-database-mgmt
+	url = https://github.com/aka-somix/db-lib-database-mgmt
